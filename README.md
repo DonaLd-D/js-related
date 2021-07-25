@@ -16,6 +16,7 @@
 - [https://www.jspang.com/](https://www.jspang.com/)
 
 # awsome
+- [https://github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - DevDocs [https://devdocs.io/](https://devdocs.io/)
 - js tips [https://www.jstips.co/zh_CN/](https://www.jstips.co/zh_CN/)
 - 掘金 [https://juejin.cn/frontend](https://juejin.cn/frontend)
@@ -26,3 +27,4 @@
 # other
 - ts [https://www.tslang.cn/docs/handbook/basic-types.html](https://www.tslang.cn/docs/handbook/basic-types.html)
 - flutter [https://flutterchina.club/](https://flutterchina.club/)
+- 小程序 [https://developers.weixin.qq.com/miniprogram/dev/framework/](https://developers.weixin.qq.com/miniprogram/dev/framework/)
