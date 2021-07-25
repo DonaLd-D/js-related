@@ -14,6 +14,8 @@
 - ruanyifeng [https://www.ruanyifeng.com/blog/archives.html](https://www.ruanyifeng.com/blog/archives.html)
 - [https://www.liaoxuefeng.com/](https://www.liaoxuefeng.com/)
 - [https://www.jspang.com/](https://www.jspang.com/)
+- [https://github.com/sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
+- [https://github.com/DopplerHQ/awesome-interview-questions#javascript](https://github.com/DopplerHQ/awesome-interview-questions#javascript)
 
 # awsome
 - [https://github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
