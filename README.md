@@ -18,3 +18,5 @@
 # awsome
 - DevDocs [https://devdocs.io/](https://devdocs.io/)
 - js tips [https://www.jstips.co/zh_CN/](https://www.jstips.co/zh_CN/)
+- 掘金 [https://juejin.cn/frontend](https://juejin.cn/frontend)
+- 思否 [https://segmentfault.com/channel/frontend](https://segmentfault.com/channel/frontend)
