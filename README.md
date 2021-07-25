@@ -20,3 +20,9 @@
 - js tips [https://www.jstips.co/zh_CN/](https://www.jstips.co/zh_CN/)
 - 掘金 [https://juejin.cn/frontend](https://juejin.cn/frontend)
 - 思否 [https://segmentfault.com/channel/frontend](https://segmentfault.com/channel/frontend)
+- 菜鸟教程 [https://www.runoob.com/](https://www.runoob.com/)
+- 牛客网 [https://www.nowcoder.com/activity/oj](https://www.nowcoder.com/activity/oj)
+
+# other
+- ts [https://www.tslang.cn/docs/handbook/basic-types.html](https://www.tslang.cn/docs/handbook/basic-types.html)
+- flutter [https://flutterchina.club/](https://flutterchina.club/)
