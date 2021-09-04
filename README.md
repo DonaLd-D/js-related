@@ -31,3 +31,4 @@
 - ts [https://www.tslang.cn/docs/handbook/basic-types.html](https://www.tslang.cn/docs/handbook/basic-types.html)
 - flutter [https://flutterchina.club/](https://flutterchina.club/)
 - 小程序 [https://developers.weixin.qq.com/miniprogram/dev/framework/](https://developers.weixin.qq.com/miniprogram/dev/framework/)
+- echarts-for-wx [https://github.com/ecomfe/echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
