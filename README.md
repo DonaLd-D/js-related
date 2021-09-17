@@ -27,6 +27,11 @@
 - 牛客网 [https://www.nowcoder.com/activity/oj](https://www.nowcoder.com/activity/oj)
 - freeCodeCamp [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 
+# micro frontends
+- [single-spa](https://single-spa.js.org/docs/getting-started-overview)
+- [qiankun](https://qiankun.umijs.org/zh/guide)
+- [icestark](https://micro-frontends.ice.work/docs/guide/)
+
 # other
 - ts [https://www.tslang.cn/docs/handbook/basic-types.html](https://www.tslang.cn/docs/handbook/basic-types.html)
 - flutter [https://flutterchina.club/](https://flutterchina.club/)
