@@ -31,6 +31,7 @@
 - [single-spa](https://single-spa.js.org/docs/getting-started-overview)
 - [qiankun](https://qiankun.umijs.org/zh/guide)
 - [icestark](https://micro-frontends.ice.work/docs/guide/)
+- [https://github.com/rajasegar/awesome-micro-frontends](https://github.com/rajasegar/awesome-micro-frontends)
 
 # other
 - ts [https://www.tslang.cn/docs/handbook/basic-types.html](https://www.tslang.cn/docs/handbook/basic-types.html)
