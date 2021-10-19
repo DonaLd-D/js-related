@@ -26,6 +26,9 @@
 - 菜鸟教程 [https://www.runoob.com/](https://www.runoob.com/)
 - 牛客网 [https://www.nowcoder.com/activity/oj](https://www.nowcoder.com/activity/oj)
 - freeCodeCamp [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+- codecademy [https://www.codecademy.com/catalog](https://www.codecademy.com/catalog)
+- 实验楼 [https://www.lanqiao.cn/courses/](https://www.lanqiao.cn/courses/)
+- codegym [https://codegym.cc/learn](https://codegym.cc/learn)
 
 # micro frontends
 - [single-spa](https://single-spa.js.org/docs/getting-started-overview)
