@@ -17,7 +17,7 @@
 - [https://github.com/sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
 - [https://github.com/DopplerHQ/awesome-interview-questions#javascript](https://github.com/DopplerHQ/awesome-interview-questions#javascript)
 
-# awsome
+# awesome
 - [https://github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - DevDocs [https://devdocs.io/](https://devdocs.io/)
 - js tips [https://www.jstips.co/zh_CN/](https://www.jstips.co/zh_CN/)
