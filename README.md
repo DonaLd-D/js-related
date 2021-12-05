@@ -42,3 +42,6 @@
 - awesome-flutter [https://github.com/Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
 - 小程序 [https://developers.weixin.qq.com/miniprogram/dev/framework/](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 - echarts-for-wx [https://github.com/ecomfe/echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
+
+# machine learning
+- [TensorFlow.js](https://www.tensorflow.org/js)
