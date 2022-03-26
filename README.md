@@ -30,6 +30,18 @@
 - 实验楼 [https://www.lanqiao.cn/courses/](https://www.lanqiao.cn/courses/)
 - codegym [https://codegym.cc/learn](https://codegym.cc/learn)
 
+# Data visualization
+- [echarts](https://echarts.apache.org/zh/index.html)
+- [highcharts](https://www.highcharts.com.cn/)
+- [Ant Design Charts](https://charts.ant.design/zh)
+- [d3js](https://www.d3js.org.cn/introduce/)
+- [three.js](https://threejs.org/)
+
+# web gis
+- [leafletjs](https://leafletjs.com/)
+- [openlayers](https://openlayers.org/)
+- [cesiumjs](https://cesium.com/platform/cesiumjs/)
+
 # micro frontends
 - [single-spa](https://single-spa.js.org/docs/getting-started-overview)
 - [qiankun](https://qiankun.umijs.org/zh/guide)
