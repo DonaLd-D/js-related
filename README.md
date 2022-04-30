@@ -13,7 +13,6 @@
 - html [https://wangdoc.com/html/](https://wangdoc.com/html/)
 - ruanyifeng [https://www.ruanyifeng.com/blog/archives.html](https://www.ruanyifeng.com/blog/archives.html)
 - [https://www.liaoxuefeng.com/](https://www.liaoxuefeng.com/)
-- [https://www.jspang.com/](https://www.jspang.com/)
 - [https://github.com/sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
 - [https://github.com/DopplerHQ/awesome-interview-questions#javascript](https://github.com/DopplerHQ/awesome-interview-questions#javascript)
 
@@ -50,8 +49,6 @@
 
 # other
 - ts [https://www.tslang.cn/docs/handbook/basic-types.html](https://www.tslang.cn/docs/handbook/basic-types.html)
-- flutter [https://flutterchina.club/](https://flutterchina.club/)
-- awesome-flutter [https://github.com/Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
 - 小程序 [https://developers.weixin.qq.com/miniprogram/dev/framework/](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 - echarts-for-wx [https://github.com/ecomfe/echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
 
